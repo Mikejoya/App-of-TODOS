@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/App-of-TODOS/static/css/main.95fc4077.css",
+    "main.js": "/App-of-TODOS/static/js/main.d91b7ebb.js",
+    "index.html": "/App-of-TODOS/index.html",
+    "static/media/deleted.svg": "/App-of-TODOS/static/media/deleted.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
+    "static/media/complete.svg": "/App-of-TODOS/static/media/complete.af03c9a6a0411e40578874e6f00e807b.svg",
+    "main.95fc4077.css.map": "/App-of-TODOS/static/css/main.95fc4077.css.map",
+    "main.d91b7ebb.js.map": "/App-of-TODOS/static/js/main.d91b7ebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95fc4077.css",
+    "static/js/main.d91b7ebb.js"
+  ]
+}
