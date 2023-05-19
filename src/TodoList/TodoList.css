@@ -1,0 +1,11 @@
+.TodoList {
+    /* width: calc(100% - 66px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px auto;
+    box-shadow: 5px 5px 10px -5px ; */
+    margin: 0;
+    padding: 0 0 56px; 
+    list-style: none;
+}
